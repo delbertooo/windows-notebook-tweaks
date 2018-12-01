@@ -1,0 +1,1 @@
+Get-ScheduledTask -TaskPath '\Microsoft\Windows\MemoryDiagnostic\' | Disable-ScheduledTask
